@@ -6,7 +6,7 @@
 
 ## Sincronizar una carpeta con un repositorio
 
-- [Para entorno Servidor](./1%20-%20Subcronizar%20Entorno%20Servidor/)
+- [Para entorno Servidor](./1%20-%20Sincronizar%20Entorno%20Servidor/)
 
 ## Sincronizar con nube de google
 
