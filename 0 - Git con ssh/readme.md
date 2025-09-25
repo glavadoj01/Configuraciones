@@ -42,6 +42,8 @@ En el propio GitHub, podemos encontrar las instrucciones paso a paso:
 
       [Copiar todo en carpeta TuUsuario](./Copiar%20en%20carpeta%20de%20usuario/)
 
+      Solo se requiere un fichero `.bashrc`, en caso de Windows ese mismo, y en caso de Linux `.bashrcLINUX`, tan solo borrar "Linux" del nombre.
+
    2. Copiar ficheros en carpeta .ssh
 
       [Copiar todo en carpeta .ssh](./Copiar%20en%20carpeta%20.ssh/)
@@ -67,6 +69,8 @@ En el propio GitHub, podemos encontrar las instrucciones paso a paso:
       Y tambien hay que editar en esas líneas, el nombre de usuario
 
       ![Carpeta de usuario 2](./.img/05.2.png)
+
+      En caso de LINUX, solo hay que editar el nombre de la clave, la ruta de usuario se asume/lee con `$HOME` sin tener que cambiarlo
 
    2. En la carpeta .ssh, editamos el fichero config
 
